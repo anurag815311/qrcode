@@ -1,4 +1,3 @@
-Here’s a beautifully styled README.md for your **QR Code Generator** project:
 
 ---
 
