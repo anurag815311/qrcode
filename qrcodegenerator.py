@@ -1,5 +1,3 @@
-
-
 import qrcode
 from PIL import Image  # Using Pillow for image processing
 
