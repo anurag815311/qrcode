@@ -52,5 +52,8 @@
 
 ![Generated QR Code](image.png)
 
+##  Screenshot for code:
+ ![code ](image-1.png)
+
 ---
 
