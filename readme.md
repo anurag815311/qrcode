@@ -55,4 +55,3 @@ Here’s a beautifully styled README.md for your **QR Code Generator** project:
 
 ---
 
-Feel free to reach out for any questions or contributions! 😊
