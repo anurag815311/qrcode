@@ -29,4 +29,4 @@ Usage:-
 Run the application : python qrcodegenarator.py
 
 screenshot for generated qrcode:-
-![alt text](image.png)
+![qrcode](image.png)
